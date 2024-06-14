@@ -1,5 +1,0 @@
-# 冲突场景一
-# hello word！
-# from windows
-# hello word!
-# from ubuntu
